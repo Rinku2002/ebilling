@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.bg{
+  background-image: url("http://northstar.church/wp-content/uploads/2019/09/AdobeStock_60497355.jpg");
+  background-repeat: no-repeat;
+  height: 25rem;
+  padding-top: 9rem;
+}
